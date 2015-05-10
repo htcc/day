@@ -7,5 +7,3 @@
   <a href="http://25.dns2.us:81/day/" target="_blank">http://25.dns2.us:81/day/</a><br />
   <a href="http://ck.otzo.com:81/day/" target="_blank">http://ck.otzo.com:81/day/</a><br />
   <a href="http://20.120v.ac/day/" target="_blank">http://20.120v.ac/day/</a><br />
-
-
