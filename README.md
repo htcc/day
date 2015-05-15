@@ -1,4 +1,3 @@
-# day
 &#8226; 每 日 新 闻：
 <a href="http://622.dtdns.net:81/day/" target="_blank">网址一</a>
 　<a href="http://65.wiki.gd:81/day/" target="_blank">网址二</a>
