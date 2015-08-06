@@ -1,4 +1,3 @@
-&#8226; 每 日 新 闻：
 <a href="http://go365.gq:81/day/" target="_blank">网址一</a>
 　<a href="http://77.gw.lt:81/day/" target="_blank">网址二</a>
 　<a href="http://qq404.cf/day/" target="_blank">网址三</a><br />
