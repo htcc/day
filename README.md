@@ -1,3 +1,4 @@
+&#8226; 每 日 新 闻：
 <a href="http://app365.ga:81/day/" target="_blank">网址一</a>
 　<a href="http://tv555.cf/day/" target="_blank">网址二</a>
 　<a href="http://qq404.cf/day/" target="_blank">网址三</a><br />
